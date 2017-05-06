@@ -2,8 +2,6 @@
 
 > A directory of companies, people, and projects that are Open Source and from Toronto
 
-Join the [**Slack Group**](https://opensourcemtl.slack.com/shared_invite/MTcwNDcwMDk1NjgxLTE0OTI1NDk3NzktOTM0YzRhODExYQ)!
-
 ## Background
 
 Why is there a list combining a licensing model with a geographical location?
