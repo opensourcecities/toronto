@@ -42,7 +42,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - HackerYou
 - Ladies Learning Code
 - Lighthouse Labs
-- NodeSchool
+- [@NodeSchool](https://github.com/nodeschool/toronto) Toronto NodeSchool Chapter [(Website)](https://nodeschool.io/toronto/)
 - [@TorontoJS](https://github.com/torontojs) - Toronto JS [Website](https://torontojs.com/)
 
 
