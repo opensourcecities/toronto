@@ -17,13 +17,14 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Dagoba](https://github.com/dxnn/dagoba) - A tiny in-memory graph database. [Website](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 - [Daimio](https://github.com/dxnn/daimio) - A framework for building programmable applications. [Website](http://daimio.org)
 - [Markus](http://github.com/MarkUsProject/Markus) - Online Marking Made Easy. [Website](http://markusproject.org)
-- https://github.com/speakfriend/speakfriend
+- [Speak Friend](https://github.com/speakfriend/speakfriend)
 - [TorontoJS website](https://github.com/torontojs/torontojs.com) - Website for Toronto JS. [Website](http://torontojs.com)
 
 
 ## GitHub Organizations
 
 - [CS Cabal](https://github.com/CompSciCabal) - The Toronto Recreational CS Reading Group. [Website](http://cscabal.com)
+- [@the-heap](https://github.com/the-heap/) - Cultivated + managed community projects especially welcome to new contributors.
 
 
 ## Users with Open Source projects
