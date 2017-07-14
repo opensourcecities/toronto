@@ -22,6 +22,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Auth-Boss](https://github.com/teesloane/Auth-Boss) - Learn about different authentication methodologies on the web.
 - [Black-stone](https://github.com/thephoeron/black-stone) - Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers.
 - [Cryogen](https://github.com/cryogen-project) - Static sites generated with Clojure. [Website](http://cryogenweb.org)
+- [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) -  Graph theory / network library for analysis and visualisation. [Website](http://js.cytoscape.org)
 - [Dagoba](https://github.com/dxnn/dagoba) - A tiny in-memory graph database. [Website](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 - [Daimio](https://github.com/dxnn/daimio) - A framework for building programmable applications. [Website](http://daimio.org)
 - [Elm GraphQL](https://github.com/jamesmacaulay/elm-graphql) - A GraphQL library for Elm. [Website](http://package.elm-lang.org/packages/jamesmacaulay/elm-graphql/latest)
@@ -36,6 +37,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [MithrilJS](https://github.com/MithrilJS/mithril.js) - A Javascript Framework for Building Brilliant Applications. [Website](http://mithril.js.org)
 - [Mockbin](https://github.com/Mashape/mockbin) - Mock, Test & Track HTTP Requests and Responses. [Website](http://mockbin.com)
 - [OMG Counters](https://github.com/adrianmcli/omg-counters) - Increment decrement counters using various frontend frameworks.
+- [phageParser](https://github.com/phageParser/phageParser) - A project to extract CRISPR information from open genetic data.
 - [PIANO.js](https://github.com/ansonkao/PIANO.js) - A browser-based MIDI sequencer. [Website](http://ansonkao.github.io/piano-js/)
 - [Procdraw](https://github.com/simonbates/procdraw) - An experimental live programming environment for making procedurally generated graphics. [Website](http://www.procdraw.org)
 - [Quant](https://github.com/jdjkelly/quant) - Prototype/experiment of a personal health tracker.
