@@ -109,9 +109,9 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - HackerYou
 - Ladies Learning Code
 - Lighthouse Labs
-- [@NodeSchool](https://github.com/nodeschool/toronto) Toronto NodeSchool Chapter [(Website)](https://nodeschool.io/toronto/)
-- [@TorontoJS](https://github.com/torontojs) - Toronto JS [Website](https://torontojs.com/)
-
+- [@NodeSchool](https://github.com/nodeschool/toronto) Toronto NodeSchool Chapter ([Website](https://nodeschool.io/toronto/))
+- [@TorontoJS](https://github.com/torontojs) - Toronto JS ([Website](https://torontojs.com/))
+- [@UofTCoders](https://github.com/UofTCoders) - Peer learning group at the University of Toronto ([Website](https://uoftcoders.github.io/)) 
 
 ## Other lists
 
