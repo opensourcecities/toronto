@@ -102,13 +102,14 @@ These projects have been developed mainly in Toronto, or by Torontoians
 
 ## Incubators, Schools, and Communities
 
-- ClojureTO
-- Dames Making Games
-- DevHub
-- Gamma Space
-- HackerYou
-- Ladies Learning Code
-- Lighthouse Labs
+- Bitmaker ([Website](https://bitmaker.co/))
+- ClojureTO ([Website](https://www.meetup.com/Clojure-Toronto/))
+- Dames Making Games ([Website](https://dmg.to/))
+- DevHub ([Website](http://devhub.ca/))
+- Gamma Space ([Website](https://bentomiso.com/))
+- HackerYou ([Website](http://hackeryou.com/))
+- Ladies Learning Code ([Website](http://ladieslearningcode.com/)
+- Lighthouse Labs ([Website](https://lighthouselabs.ca/))
 - [@NodeSchool](https://github.com/nodeschool/toronto) Toronto NodeSchool Chapter ([Website](https://nodeschool.io/toronto/))
 - [@TorontoJS](https://github.com/torontojs) - Toronto JS ([Website](https://torontojs.com/))
 - [@UofTCoders](https://github.com/UofTCoders) - Peer learning group at the University of Toronto ([Website](https://uoftcoders.github.io/)) 
