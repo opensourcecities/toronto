@@ -108,7 +108,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - DevHub ([Website](http://devhub.ca/))
 - Gamma Space ([Website](https://bentomiso.com/))
 - HackerYou ([Website](http://hackeryou.com/))
-- Ladies Learning Code ([Website](http://ladieslearningcode.com/)
+- Ladies Learning Code ([Website](http://ladieslearningcode.com/))
 - Lighthouse Labs ([Website](https://lighthouselabs.ca/))
 - [@NodeSchool](https://github.com/nodeschool/toronto) Toronto NodeSchool Chapter ([Website](https://nodeschool.io/toronto/))
 - [@TorontoJS](https://github.com/torontojs) - Toronto JS ([Website](https://torontojs.com/))
