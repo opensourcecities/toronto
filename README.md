@@ -72,32 +72,32 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [The Heap](https://github.com/the-heap/) - Cultivated + managed community projects especially welcome to new contributors.
 
 
-## Users with Open Source projects
+## Local folks with Open Source projects
 
-- [@adrianmcli](https://github.com/adrianmcli)
-- [@ahmadnassri](https://github.com/ahmadnassri)
-- [@alex-wilmer](https://github.com/alex-wilmer)
-- [@amscanne](https://github.com/amscanne)
-- [@ansonkao](https://github.com/ansonkao)
-- [@asalga](https://github.com/asalga)
-- [@dxnn](https://github.com/dxnn)
-- [@epitron](https://github.com/epitron)
-- [@hoytech](https://github.com/hoytech)
-- [@inaimathi](https://github.com/inaimathi)
-- [@jamesmacaulay](https://github.com/jamesmacaulay)
-- [@jasongoodwin](https://github.com/jasongoodwin)
-- [@jdjkelly](https://github.com/jdjkelly)
-- [@lacarmen](https://github.com/lacarmen)
-- [@lhorie](https://github.com/lhorie)
-- [@michaeldibernardo](https://github.com/MichaelDiBernardo)
-- [@mihok](https://github.com/mihok)
-- [@ricmoo](https://github.com/ricmoo)
-- [@shanewilson](https://github.com/shanewilson)
-- [@simonbates](https://github.com/simonbates)
-- [@suhailshergill](https://github.com/suhailshergill)
-- [@teesloane](https://github.com/teesloane)
-- [@thephoeron](https://github.com/thephoeron)
-- [@yogthos](https://github.com/yogthos)
+[@adrianmcli](https://github.com/adrianmcli), 
+[@ahmadnassri](https://github.com/ahmadnassri), 
+[@alex-wilmer](https://github.com/alex-wilmer), 
+[@amscanne](https://github.com/amscanne), 
+[@ansonkao](https://github.com/ansonkao), 
+[@asalga](https://github.com/asalga), 
+[@dxnn](https://github.com/dxnn), 
+[@epitron](https://github.com/epitron), 
+[@hoytech](https://github.com/hoytech), 
+[@inaimathi](https://github.com/inaimathi), 
+[@jamesmacaulay](https://github.com/jamesmacaulay), 
+[@jasongoodwin](https://github.com/jasongoodwin), 
+[@jdjkelly](https://github.com/jdjkelly), 
+[@lacarmen](https://github.com/lacarmen), 
+[@lhorie](https://github.com/lhorie), 
+[@michaeldibernardo](https://github.com/MichaelDiBernardo), 
+[@mihok](https://github.com/mihok), 
+[@ricmoo](https://github.com/ricmoo), 
+[@shanewilson](https://github.com/shanewilson), 
+[@simonbates](https://github.com/simonbates), 
+[@suhailshergill](https://github.com/suhailshergill), 
+[@teesloane](https://github.com/teesloane), 
+[@thephoeron](https://github.com/thephoeron), 
+[@yogthos](https://github.com/yogthos)
 
 
 ## Incubators, Schools, and Communities
