@@ -112,7 +112,8 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - Lighthouse Labs ([Website](https://lighthouselabs.ca/))
 - [@NodeSchool](https://github.com/nodeschool/toronto) Toronto NodeSchool Chapter ([Website](https://nodeschool.io/toronto/))
 - [@TorontoJS](https://github.com/torontojs) - Toronto JS ([Website](https://torontojs.com/))
-- [@UofTCoders](https://github.com/UofTCoders) - Peer learning group at the University of Toronto ([Website](https://uoftcoders.github.io/)) 
+- [@UofTCoders](https://github.com/UofTCoders) - Peer learning group at the University of Toronto ([Website](https://uoftcoders.github.io/))
+- [Polyhack](https://www.meetup.com/polyhackTO/) - Polyglot technical meetup ([Website](https://zachgoldstein.github.io/polyhack/))
 
 ## Other lists
 
