@@ -81,6 +81,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 [@amscanne](https://github.com/amscanne), 
 [@ansonkao](https://github.com/ansonkao), 
 [@asalga](https://github.com/asalga), 
+[@danielsnider](https://github.com/danielsnider),
 [@dxnn](https://github.com/dxnn), 
 [@epitron](https://github.com/epitron), 
 [@hoytech](https://github.com/hoytech), 
