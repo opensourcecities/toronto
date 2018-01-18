@@ -58,6 +58,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [markdown-clj](https://github.com/yogthos/markdown-clj) - Markdown parser in Clojure. [Website](https://rawgit.com/yogthos/markdown-clj/master/demo/markdown.html)
 - [pyaes](https://github.com/ricmoo/pyaes) - Pure-Python implementation of AES block-cipher and common modes of operation.
 - [react-webpack-example](https://github.com/shanewilson/react-webpack-example) - Example project using React/Redux, built with Webpack and tested with Enzyme.
+- [ROS-Rover](https://github.com/danielsnider/ros-rover) - Autonomous robotic rover implemented with Robot Operating System (ROS).
 - [vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control. [Website](https://hoytech.com/vmtouch/)
 - [TorontoJS website](https://github.com/torontojs/torontojs.com) - Website for Toronto JS. [Website](http://torontojs.com)
 
