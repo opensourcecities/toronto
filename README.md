@@ -65,6 +65,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 
 ## GitHub Organizations
 
+- [CivicTechTO](https://github.com/civictechto) - Civic Tech Toronto is a diverse community of Torontonians interested in better understanding and finding solutions to civic challenges through technology, design or other means.
 - [CS Cabal](https://github.com/CompSciCabal) - The Toronto Recreational CS Reading Group. [Website](http://cscabal.com)
 - [Ethereum](https://github.com/ethereum/) - Ethereum blockchain development. [Website](https://www.ethereum.org)
 - [Fluid](https://github.com/fluid-project) - An open, collaborative project to improve the user experience and inclusiveness of open source software. [Website](http://fluidproject.org)
