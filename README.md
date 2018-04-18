@@ -21,6 +21,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Antiweb](https://github.com/hoytech/antiweb) - Common Lisp web application server. [Website](http://hoytech.com/antiweb/)
 - [Auth-Boss](https://github.com/teesloane/Auth-Boss) - Learn about different authentication methodologies on the web.
 - [Black-stone](https://github.com/thephoeron/black-stone) - Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers.
+- [Building the Peer-to-Peer Internet](https://github.com/tomeshnet/p2p-internet-workshop/) - Workshop series on community mesh networks and peer-to-peer applications. [Website](https://tomesh.net/peer-to-peer-internet/)
 - [Cryogen](https://github.com/cryogen-project) - Static sites generated with Clojure. [Website](http://cryogenweb.org)
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) -  Graph theory / network library for analysis and visualisation. [Website](http://js.cytoscape.org)
 - [Dagoba](https://github.com/dxnn/dagoba) - A tiny in-memory graph database. [Website](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
@@ -72,6 +73,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Inclusive Design Institute](https://github.com/inclusive-design) - R&D for inclusiveness and diversity. [Website](http://inclusivedesign.ca)
 - [Jam3](https://github.com/Jam3) - Design studio with many OSS contributions. [Website](http://www.jam3.com)
 - [The Heap](https://github.com/the-heap/) - Cultivated + managed community projects especially welcome to new contributors.
+- [Toronto Mesh](https://github.com/tomeshnet) - Community mesh network in Toronto. ([Website](https://tomesh.net))
 
 
 ## Local folks with Open Source projects
