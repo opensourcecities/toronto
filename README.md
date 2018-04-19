@@ -73,7 +73,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Inclusive Design Institute](https://github.com/inclusive-design) - R&D for inclusiveness and diversity. [Website](http://inclusivedesign.ca)
 - [Jam3](https://github.com/Jam3) - Design studio with many OSS contributions. [Website](http://www.jam3.com)
 - [The Heap](https://github.com/the-heap/) - Cultivated + managed community projects especially welcome to new contributors.
-- [Toronto Mesh](https://github.com/tomeshnet) - Community mesh network in Toronto. ([Website](https://tomesh.net))
+- [Toronto Mesh](https://github.com/tomeshnet) - Community mesh network in Toronto. [Website](https://tomesh.net)
 
 
 ## Local folks with Open Source projects
