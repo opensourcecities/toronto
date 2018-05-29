@@ -1,3 +1,3 @@
-+++
-title = "Incubators, Schools, and Communities"
-+++
+---
+title: "Incubators, Schools, and Communities"
+---
