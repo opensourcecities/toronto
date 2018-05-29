@@ -2,6 +2,18 @@
 
 > A directory of companies, people, and projects that are Open Source and from Toronto
 
+## Table of Contents
+
+- [Background](#background)
+- [Projects](#projects)
+- [GitHub Organizations](#gitHub-organizations)
+- [Local folks with Open Source projects](#local-folks-with-open-source-projects)
+- [Incubators, Schools, and Communities](#incubators-schools-and-communities)
+- [Other lists](#other-lists)
+- [Contribute](#contribute)
+- [Build](#build)
+- [Maintainers](#maintainers)
+- [License](#license)
 
 ## Background
 
@@ -10,7 +22,6 @@ Why is there a list combining a licensing model with a geographical location?
 Generally, we've found that the Open Source community is just that - a community. People who contribute to open source code often do so because they know other contributors personally, they use each other's code, or they met someone at an event who pointed them to something. You'll find that a lot of open source projects are city specific - frequent attenders of meetups tend to hear about the same projects, learn about the same companies doing open source, and contribute in the same way.
 
 We want to build a list where we can see and learn about each other's code, just a bit easier, in the open.
-
 
 ## Projects
 
@@ -63,7 +74,6 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control. [Website](https://hoytech.com/vmtouch/)
 - [TorontoJS website](https://github.com/torontojs/torontojs.com) - Website for Toronto JS. [Website](http://torontojs.com)
 
-
 ## GitHub Organizations
 
 - [CivicTechTO](https://github.com/civictechto) - Civic Tech Toronto is a diverse community of Torontonians interested in better understanding and finding solutions to civic challenges through technology, design or other means.
@@ -74,7 +84,6 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Jam3](https://github.com/Jam3) - Design studio with many OSS contributions. [Website](http://www.jam3.com)
 - [The Heap](https://github.com/the-heap/) - Cultivated + managed community projects especially welcome to new contributors.
 - [Toronto Mesh](https://github.com/tomeshnet) - Community mesh network in Toronto. [Website](https://tomesh.net)
-
 
 ## Local folks with Open Source projects
 
@@ -104,7 +113,6 @@ These projects have been developed mainly in Toronto, or by Torontoians
 [@thephoeron](https://github.com/thephoeron), 
 [@yogthos](https://github.com/yogthos)
 
-
 ## Incubators, Schools, and Communities
 
 - Bitmaker ([Website](https://bitmaker.co/))
@@ -124,13 +132,38 @@ These projects have been developed mainly in Toronto, or by Torontoians
 
 - [Toronto Open Data](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD)
 
-
 ## Contribute
 
-Please do! If you know of any resources that aren't here, add them. If you have any questions or want a feature, please [open an issue](https://github.com/opensourcecities/toronto/issues/new).
+**Please do!**
+
+- If you know of any resources that aren't here, please read the [contribution guide](https://github.com/opensourcecities/toronto/blob/master/CONTRIBUTING.md), open a PR and add them.
+- If you have any questions or want a feature, please [open an issue](https://github.com/opensourcecities/toronto/issues/new).
+- If you know a friend or two in another cities, please encourage them to contribute to their respective [cities](https://github.com/opensourcecities).
 
 If adding to the list, please keep the items alphabetized. Thank you.
 
+Thank you!
+
+## Build
+
+This site is built with [Hugo](https://gohugo.io/) and uses an external theme from [https://github.com/opensourcecities/osc-theme](https://github.com/opensourcecities/osc-theme) as submodule.
+
+- To run the site locally:
+
+```bash
+git clone --recurse-submodules https://github.com/opensourcecities/toronto.git
+cd toronto
+./binaries/hugo server
+```
+
+- To generate the site:
+
+```bash
+git clone --recurse-submodules https://github.com/opensourcecities/toronto.git
+cd toronto
+rm -rf public/
+./binaries/hugo
+```
 
 ## Maintainers
 
@@ -139,7 +172,6 @@ This is an open source project; if you want to be a maintainer, you can be! Just
 [@mihok](https://github.com/mihok)
 [@teesloane](https://github.com/teesloane)
 [@dxnn](https://github.com/dxnn)
-
 
 ## License
 
