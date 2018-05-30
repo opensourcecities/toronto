@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/organizations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/other/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/</loc>
+  </url>
+  
+</urlset>
