@@ -6,9 +6,424 @@
     <description>Recent content on Open Source Cities - Toronto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 30 May 2018 12:34:03 -0400</lastBuildDate>
     
         <atom:link href="https://opensourcecities.github.io/toronto/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bitmaker</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/bitmaker/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/bitmaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClojureTO</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/clojureto/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/clojureto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dames Making Games</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/dames-making-games/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/dames-making-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevHub</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/devhub/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/devhub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gamma Space</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/gamma-space/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/gamma-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HackerYou</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/hackeryou/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/hackeryou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ladies Learning Code</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/ladies-learning-code/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/ladies-learning-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lighthouse Labs</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/lighthouse-labs/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/lighthouse-labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nodeschool Toronto</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/nodeschool-toronto/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/nodeschool-toronto/</guid>
+      <description>Toronto NodeSchool Chapter</description>
+    </item>
+    
+    <item>
+      <title>Polyhack</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/polyhack/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/polyhack/</guid>
+      <description>Polyglot technical meetup ([Website](https://zachgoldstein.github.io/polyhack/))</description>
+    </item>
+    
+    <item>
+      <title>TorontoJS</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/torontojs/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/torontojs/</guid>
+      <description>Toronto JS</description>
+    </item>
+    
+    <item>
+      <title>UofTCoders</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/uoftcoders/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/uoftcoders/</guid>
+      <description>Peer learning group at the University of Toronto</description>
+    </item>
+    
+    <item>
+      <title>Toronto Mesh</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/tomeshnet/</link>
+      <pubDate>Wed, 30 May 2018 10:45:41 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/tomeshnet/</guid>
+      <description>Community mesh network in Toronto.</description>
+    </item>
+    
+    <item>
+      <title>CivicTechTO</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/civictechto/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/civictechto/</guid>
+      <description>Civic Tech Toronto is a diverse community of Torontonians interested in better understanding and finding solutions to civic challenges through technology, design or other means.</description>
+    </item>
+    
+    <item>
+      <title>CS Cabal</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/comp-sci-cabal/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/comp-sci-cabal/</guid>
+      <description>The Toronto Recreational CS Reading Group.</description>
+    </item>
+    
+    <item>
+      <title>Ethereum</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/ethereum/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/ethereum/</guid>
+      <description>Ethereum blockchain development.</description>
+    </item>
+    
+    <item>
+      <title>Fluid</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/fluid-project/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/fluid-project/</guid>
+      <description>An open, collaborative project to improve the user experience and inclusiveness of open source software.</description>
+    </item>
+    
+    <item>
+      <title>Inclusive Design Institute</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/inclusive-design/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/inclusive-design/</guid>
+      <description>R&amp;D for inclusiveness and diversity.</description>
+    </item>
+    
+    <item>
+      <title>Jam3</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/jam3/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/jam3/</guid>
+      <description>Design studio with many OSS contributions.</description>
+    </item>
+    
+    <item>
+      <title>The Heap</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/the-heap/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/the-heap/</guid>
+      <description>Cultivated + managed community projects especially welcome to new contributors.</description>
+    </item>
+    
+    <item>
+      <title>Toronto Open Data</title>
+      <link>https://opensourcecities.github.io/toronto/other/open-data/</link>
+      <pubDate>Wed, 30 May 2018 10:42:45 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/other/open-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mihok</title>
+      <link>https://opensourcecities.github.io/toronto/users/mihok/</link>
+      <pubDate>Wed, 30 May 2018 10:36:02 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/mihok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ricmoo</title>
+      <link>https://opensourcecities.github.io/toronto/users/ricmoo/</link>
+      <pubDate>Wed, 30 May 2018 10:36:02 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/ricmoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shanewilson</title>
+      <link>https://opensourcecities.github.io/toronto/users/shanewilson/</link>
+      <pubDate>Wed, 30 May 2018 10:36:02 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/shanewilson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simonbates</title>
+      <link>https://opensourcecities.github.io/toronto/users/simonbates/</link>
+      <pubDate>Wed, 30 May 2018 10:36:02 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/simonbates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suhailshergill</title>
+      <link>https://opensourcecities.github.io/toronto/users/suhailshergill/</link>
+      <pubDate>Wed, 30 May 2018 10:36:02 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/suhailshergill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teesloane</title>
+      <link>https://opensourcecities.github.io/toronto/users/teesloane/</link>
+      <pubDate>Wed, 30 May 2018 10:36:02 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/teesloane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thephoeron</title>
+      <link>https://opensourcecities.github.io/toronto/users/thephoeron/</link>
+      <pubDate>Wed, 30 May 2018 10:36:02 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/thephoeron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yogthos</title>
+      <link>https://opensourcecities.github.io/toronto/users/yogthos/</link>
+      <pubDate>Wed, 30 May 2018 10:36:02 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/yogthos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adrianmcli</title>
+      <link>https://opensourcecities.github.io/toronto/users/adrianmcli/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/adrianmcli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ahmadnassri</title>
+      <link>https://opensourcecities.github.io/toronto/users/ahmadnassri/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/ahmadnassri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Wilmer</title>
+      <link>https://opensourcecities.github.io/toronto/users/alex-wilmer/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/alex-wilmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amscanne</title>
+      <link>https://opensourcecities.github.io/toronto/users/amscanne/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/amscanne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ansonkao</title>
+      <link>https://opensourcecities.github.io/toronto/users/ansonkao/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/ansonkao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asalga</title>
+      <link>https://opensourcecities.github.io/toronto/users/asalga/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/asalga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>danielsnider</title>
+      <link>https://opensourcecities.github.io/toronto/users/danielsnider/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/danielsnider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dxnn</title>
+      <link>https://opensourcecities.github.io/toronto/users/dxnn/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/dxnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epitron</title>
+      <link>https://opensourcecities.github.io/toronto/users/epitron/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/epitron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hoytech</title>
+      <link>https://opensourcecities.github.io/toronto/users/hoytech/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/hoytech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inaimathi</title>
+      <link>https://opensourcecities.github.io/toronto/users/inaimathi/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/inaimathi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jamesmacaulay</title>
+      <link>https://opensourcecities.github.io/toronto/users/jamesmacaulay/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/jamesmacaulay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jasongoodwin</title>
+      <link>https://opensourcecities.github.io/toronto/users/jasongoodwin/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/jasongoodwin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jdjkelly</title>
+      <link>https://opensourcecities.github.io/toronto/users/jdjkelly/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/jdjkelly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lacarmen</title>
+      <link>https://opensourcecities.github.io/toronto/users/lacarmen/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/lacarmen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lhorie</title>
+      <link>https://opensourcecities.github.io/toronto/users/lhorie/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/lhorie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>michaeldibernardo</title>
+      <link>https://opensourcecities.github.io/toronto/users/michaeldibernardo/</link>
+      <pubDate>Wed, 30 May 2018 10:36:01 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/users/michaeldibernardo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

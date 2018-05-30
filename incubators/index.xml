@@ -6,9 +6,118 @@
     <description>Recent content in Incubators, Schools, and Communities on Open Source Cities - Toronto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 30 May 2018 12:34:03 -0400</lastBuildDate>
     
         <atom:link href="https://opensourcecities.github.io/toronto/incubators/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bitmaker</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/bitmaker/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/bitmaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClojureTO</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/clojureto/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/clojureto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dames Making Games</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/dames-making-games/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/dames-making-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevHub</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/devhub/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/devhub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gamma Space</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/gamma-space/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/gamma-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HackerYou</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/hackeryou/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/hackeryou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ladies Learning Code</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/ladies-learning-code/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/ladies-learning-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lighthouse Labs</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/lighthouse-labs/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/lighthouse-labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nodeschool Toronto</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/nodeschool-toronto/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/nodeschool-toronto/</guid>
+      <description>Toronto NodeSchool Chapter</description>
+    </item>
+    
+    <item>
+      <title>Polyhack</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/polyhack/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/polyhack/</guid>
+      <description>Polyglot technical meetup ([Website](https://zachgoldstein.github.io/polyhack/))</description>
+    </item>
+    
+    <item>
+      <title>TorontoJS</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/torontojs/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/torontojs/</guid>
+      <description>Toronto JS</description>
+    </item>
+    
+    <item>
+      <title>UofTCoders</title>
+      <link>https://opensourcecities.github.io/toronto/incubators/uoftcoders/</link>
+      <pubDate>Wed, 30 May 2018 12:34:03 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/incubators/uoftcoders/</guid>
+      <description>Peer learning group at the University of Toronto</description>
+    </item>
     
   </channel>
 </rss>

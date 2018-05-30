@@ -6,9 +6,19 @@
     <description>Recent content in Other on Open Source Cities - Toronto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 30 May 2018 10:42:45 -0400</lastBuildDate>
     
         <atom:link href="https://opensourcecities.github.io/toronto/other/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Toronto Open Data</title>
+      <link>https://opensourcecities.github.io/toronto/other/open-data/</link>
+      <pubDate>Wed, 30 May 2018 10:42:45 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/other/open-data/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

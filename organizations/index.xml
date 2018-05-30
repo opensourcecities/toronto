@@ -6,9 +6,82 @@
     <description>Recent content in GitHub Organizations (Companies or Projects) on Open Source Cities - Toronto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 30 May 2018 10:45:41 -0400</lastBuildDate>
     
         <atom:link href="https://opensourcecities.github.io/toronto/organizations/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Toronto Mesh</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/tomeshnet/</link>
+      <pubDate>Wed, 30 May 2018 10:45:41 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/tomeshnet/</guid>
+      <description>Community mesh network in Toronto.</description>
+    </item>
+    
+    <item>
+      <title>CivicTechTO</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/civictechto/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/civictechto/</guid>
+      <description>Civic Tech Toronto is a diverse community of Torontonians interested in better understanding and finding solutions to civic challenges through technology, design or other means.</description>
+    </item>
+    
+    <item>
+      <title>CS Cabal</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/comp-sci-cabal/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/comp-sci-cabal/</guid>
+      <description>The Toronto Recreational CS Reading Group.</description>
+    </item>
+    
+    <item>
+      <title>Ethereum</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/ethereum/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/ethereum/</guid>
+      <description>Ethereum blockchain development.</description>
+    </item>
+    
+    <item>
+      <title>Fluid</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/fluid-project/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/fluid-project/</guid>
+      <description>An open, collaborative project to improve the user experience and inclusiveness of open source software.</description>
+    </item>
+    
+    <item>
+      <title>Inclusive Design Institute</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/inclusive-design/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/inclusive-design/</guid>
+      <description>R&amp;D for inclusiveness and diversity.</description>
+    </item>
+    
+    <item>
+      <title>Jam3</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/jam3/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/jam3/</guid>
+      <description>Design studio with many OSS contributions.</description>
+    </item>
+    
+    <item>
+      <title>The Heap</title>
+      <link>https://opensourcecities.github.io/toronto/organizations/the-heap/</link>
+      <pubDate>Wed, 30 May 2018 10:45:40 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/toronto/organizations/the-heap/</guid>
+      <description>Cultivated + managed community projects especially welcome to new contributors.</description>
+    </item>
     
   </channel>
 </rss>

@@ -3,7 +3,238 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/bitmaker/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/clojureto/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/dames-making-games/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/devhub/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/gamma-space/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/hackeryou/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/ladies-learning-code/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/lighthouse-labs/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/nodeschool-toronto/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/polyhack/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/torontojs/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/incubators/uoftcoders/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/organizations/tomeshnet/</loc>
+    <lastmod>2018-05-30T10:45:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/organizations/civictechto/</loc>
+    <lastmod>2018-05-30T10:45:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/organizations/comp-sci-cabal/</loc>
+    <lastmod>2018-05-30T10:45:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/organizations/ethereum/</loc>
+    <lastmod>2018-05-30T10:45:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/organizations/fluid-project/</loc>
+    <lastmod>2018-05-30T10:45:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/organizations/inclusive-design/</loc>
+    <lastmod>2018-05-30T10:45:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/organizations/jam3/</loc>
+    <lastmod>2018-05-30T10:45:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/organizations/the-heap/</loc>
+    <lastmod>2018-05-30T10:45:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/other/open-data/</loc>
+    <lastmod>2018-05-30T10:42:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/mihok/</loc>
+    <lastmod>2018-05-30T10:36:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/ricmoo/</loc>
+    <lastmod>2018-05-30T10:36:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/shanewilson/</loc>
+    <lastmod>2018-05-30T10:36:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/simonbates/</loc>
+    <lastmod>2018-05-30T10:36:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/suhailshergill/</loc>
+    <lastmod>2018-05-30T10:36:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/teesloane/</loc>
+    <lastmod>2018-05-30T10:36:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/thephoeron/</loc>
+    <lastmod>2018-05-30T10:36:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/yogthos/</loc>
+    <lastmod>2018-05-30T10:36:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/adrianmcli/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/ahmadnassri/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/alex-wilmer/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/amscanne/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/ansonkao/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/asalga/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/danielsnider/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/dxnn/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/epitron/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/hoytech/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/inaimathi/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/jamesmacaulay/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/jasongoodwin/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/jdjkelly/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/lacarmen/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/lhorie/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/toronto/users/michaeldibernardo/</loc>
+    <lastmod>2018-05-30T10:36:01-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://opensourcecities.github.io/toronto/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
   </url>
   
   <url>
@@ -13,14 +244,17 @@
   
   <url>
     <loc>https://opensourcecities.github.io/toronto/organizations/</loc>
+    <lastmod>2018-05-30T10:45:41-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://opensourcecities.github.io/toronto/incubators/</loc>
+    <lastmod>2018-05-30T12:34:03-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://opensourcecities.github.io/toronto/other/</loc>
+    <lastmod>2018-05-30T10:42:45-04:00</lastmod>
   </url>
   
   <url>
@@ -34,6 +268,7 @@
   
   <url>
     <loc>https://opensourcecities.github.io/toronto/users/</loc>
+    <lastmod>2018-05-30T10:36:02-04:00</lastmod>
   </url>
   
 </urlset>
