@@ -1,0 +1,30 @@
+notifications:
+  email: false
+
+language: ruby
+rvm:
+  - 2.2
+
+install:
+  - rm -rf public || exit 0
+
+before_script:
+  - gem install awesome_bot
+
+script:
+  - awesome_bot README.md
+      --allow-dupe
+      --allow-ssl
+      --skip-save-results
+      --white-list https://github.com/opensourcecities/toronto/issues/new,https://github.com/opensourcecities/toronto.git
+  - binaries/hugo --theme=osc-theme
+  - echo 'Published at '$(date) > public/README.md
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: public
+  keep-history: true
+  on:
+    branch: master

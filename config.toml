@@ -1,0 +1,100 @@
+baseurl = "https://opensourcecities.github.io/toronto/"
+languageCode = "en-us"
+title = "Open Source Cities - Toronto"
+theme = "osc-theme"
+
+[params]
+    # To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+    name = "Open Source Cities - Toronto"
+    description = "A directory of companies, people, and projects that are Open Source and from Toronto."
+    fqdn = "https://opensourcecities.github.io"
+
+    # The path must be relative to the static folder
+    favicon = "favicon.ico"
+
+    # Navigation
+    [params.navigation]
+        brand = "/img/logo.png"
+
+        [[params.navigation.link]]
+            text = "Home"
+            link = ""
+            anchor = "page-top"
+
+        [[params.navigation.link]]
+            text = "Background"
+            link = "#background"
+            anchor = "background"
+
+        [[params.navigation.link]]
+            text = "Organizations"
+            link = "organizations"
+            anchor = "organizations"
+
+        [[params.navigation.link]]
+            text = "Projects"
+            link = "projects"
+            anchor = "projects"
+
+        [[params.navigation.link]]
+            text = "Users"
+            link = "users"
+            anchor = "users"
+
+        [[params.navigation.link]]
+            text = "Incubators"
+            link = "incubators"
+            anchor = "incubators"
+
+        [[params.navigation.link]]
+            text = "Other"
+            link = "other"
+            anchor = "other"
+
+        [[params.navigation.link]]
+            text = "Events"
+            link = "events"
+            anchor = "events"
+
+        [[params.navigation.link]]
+            text = "Contribution"
+            link = "#contribution"
+            anchor = "contribution"
+
+        [[params.navigation.link]]
+            text = "Contact"
+            link = "#contact"
+            anchor = "contact"
+
+    # Hero section
+    [params.hero]
+        # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+        slogan     = "Toronto"
+        subtitle   = "A directory of companies, people, and projects that are Open Source and from Toronto."
+        buttonText = "Find out more"
+
+    [params.contribution]
+        guide = "https://github.com/opensourcecities/toronto/blob/master/CONTRIBUTING.md"
+        issue = "https://github.com/opensourcecities/toronto/issues/new"
+
+    # Footer
+    [params.footer]
+        # Conact
+        [[params.footer.contact]]
+            icon = "github"
+            text = "@OpenSourceCities"
+            link = "https://github.com/opensourcecities"
+
+        [[params.footer.contact]]
+            icon = "github"
+            text = "@Toronto"
+            link = "https://github.com/opensourcecities/toronto"
+
+        [[params.footer.contact]]
+            icon = "slack"
+            text = "Join Us!"
+            link = "https://FIX_ME.com/"
+
+    # Google Analytics.
+    googleAnalytics = "UA-XXXXXXXX-1"
