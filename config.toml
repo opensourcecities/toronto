@@ -54,7 +54,7 @@ theme = "osc-theme"
 
         [[params.navigation.link]]
             text = "Events"
-            link = "#events"
+            link = "events"
             anchor = "events"
 
         [[params.navigation.link]]
@@ -94,7 +94,7 @@ theme = "osc-theme"
         [[params.footer.contact]]
             icon = "slack"
             text = "Join Us!"
-            link = "https://opensourcemtl.slack.com/shared_invite/MTcwNDcwMDk1NjgxLTE0OTI1NDk3NzktOTM0YzRhODExYQ"
+            link = "https://FIX_ME.com/"
 
         # Other Cities
         [[params.footer.cities]]
