@@ -2,6 +2,8 @@
 
 > A directory of companies, people, and projects that are Open Source and from Toronto
 
+Visit our [**Website**](https://opensourcecities.github.io/toronto/)!
+
 ## Table of Contents
 
 - [Background](#background)
