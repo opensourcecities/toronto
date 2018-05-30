@@ -132,7 +132,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 
 ## Other lists
 
-- [Toronto Open Data](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD)
+- [Toronto Open Data](https://www.toronto.ca/city-government/data-research-maps/open-data/)
 
 ## Contribute
 
