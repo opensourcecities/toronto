@@ -9,16 +9,18 @@ install:
   - rm -rf public || exit 0
 
 before_script:
+  - gem install danger
   - gem install awesome_bot
 
 script:
   - awesome_bot README.md
       --allow-dupe
       --allow-ssl
-      --skip-save-results
+      --allow 302
       --white-list https://github.com/opensourcecities/toronto/issues/new,https://github.com/opensourcecities/toronto.git
+  - danger
   - binaries/hugo --theme=osc-theme
-  - echo 'Published at '$(date) > public/README.md
+  - echo 'Published at ' $(date) > public/README.md
 
 deploy:
   provider: pages
