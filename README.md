@@ -86,6 +86,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Inclusive Design Institute](https://github.com/inclusive-design) - R&D for inclusiveness and diversity. [Website](https://inclusivedesign.ca/)
 - [The Heap](https://github.com/the-heap/) - Cultivated + managed community projects especially welcome to new contributors.
 - [Toronto Mesh](https://github.com/tomeshnet) - Community mesh network in Toronto. [Website](https://tomesh.net)
+- [TunnelBear](https://github.com/tunnelbear) - Really simple VPN to browse the web privately &amp; securely. Unblock websites around the world with applications for Mac, PC, iOS, Android &amp; Chrome. [Website](https://www.tunnelbear.com/)
 
 ## Local folks with Open Source projects
 
