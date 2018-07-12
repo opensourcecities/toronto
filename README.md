@@ -11,6 +11,7 @@ Visit our [**Website**](https://opensourcecities.github.io/toronto/)!
 - [GitHub Organizations](#gitHub-organizations)
 - [Local folks with Open Source projects](#local-folks-with-open-source-projects)
 - [Incubators, Schools, and Communities](#incubators-schools-and-communities)
+- [Companies](#companies)
 - [Other lists](#other-lists)
 - [Contribute](#contribute)
 - [Build](#build)
