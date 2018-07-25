@@ -38,7 +38,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Cryogen](https://github.com/cryogen-project) - Static sites generated with Clojure. [Website](http://cryogenweb.org)
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) -  Graph theory / network library for analysis and visualisation. [Website](http://js.cytoscape.org)
 - [Dagoba](https://github.com/dxnn/dagoba) - A tiny in-memory graph database. [Website](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
-- [Daimio](https://github.com/dxnn/daimio) - A framework for building programmable applications. [Website](http://daimio.org)
+- [Daimio](https://github.com/dxnn/daimio) - A framework for building programmable applications.
 - [Elm GraphQL](https://github.com/jamesmacaulay/elm-graphql) - A GraphQL library for Elm. [Website](http://package.elm-lang.org/packages/jamesmacaulay/elm-graphql/latest)
 - [HAR Validator](https://github.com/ahmadnassri/har-validator) - Extremely fast HTTP Archive (HAR) validator using JSON Schema. [Website](https://www.npmjs.com/package/har-validator)
 - [HRM Solutions](https://github.com/atesgoral/hrm-solutions) - Human Resource Machine solutions and size/speed hacks. [Website](http://atesgoral.github.io/hrm-solutions/)
@@ -47,7 +47,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Huptime](https://github.com/amscanne/huptime) - Utility for zero downtime restarts of unmodified programs.
 - [Luminus](https://github.com/luminus-framework) - Clojure Web Development Made Simple. [Website](http://www.luminusweb.net)
 - [Macchiato](https://github.com/macchiato-framework) - ClojureScript arrives on server. [Website](https://macchiato-framework.github.io/)
-- [Markus](https://github.com/MarkUsProject/Markus) - Online Marking Made Easy. [Website](http://markusproject.org)
+- [Markus](https://github.com/MarkUsProject/Markus) - Online Marking Made Easy.
 - [MithrilJS](https://github.com/MithrilJS/mithril.js) - A Javascript Framework for Building Brilliant Applications. [Website](https://mithril.js.org)
 - [Mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Responses. [Website](http://mockbin.com)
 - [OMG Counters](https://github.com/adrianmcli/omg-counters) - Increment decrement counters using various frontend frameworks.
