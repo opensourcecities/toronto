@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GitHub Organizations (Companies or Projects) on Open Source Cities - Toronto</title>
+    <title>GitHub Organizations on Open Source Cities - Toronto</title>
     <link>https://opensourcecities.github.io/toronto/organizations/</link>
-    <description>Recent content in GitHub Organizations (Companies or Projects) on Open Source Cities - Toronto</description>
+    <description>Recent content in GitHub Organizations on Open Source Cities - Toronto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 May 2018 10:45:41 -0400</lastBuildDate>
