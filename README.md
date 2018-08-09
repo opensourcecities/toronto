@@ -123,7 +123,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - Dames Making Games ([Website](https://dmg.to/))
 - DevHub ([Website](http://devhub.ca/))
 - Gamma Space ([Website](https://bentomiso.com/))
-- HackerYou ([Website](http://hackeryou.com/))
+- HackerYou ([Website](https://hackeryou.com/))
 - Ladies Learning Code ([Website](https://www.canadalearningcode.ca/))
 - Lighthouse Labs ([Website](https://lighthouselabs.ca/))
 - [@NodeSchool](https://github.com/nodeschool/toronto) Toronto NodeSchool Chapter ([Website](https://nodeschool.io/toronto/))
