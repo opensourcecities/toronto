@@ -11,6 +11,7 @@ Visit our [**Website**](https://opensourcecities.github.io/toronto/)!
 - [GitHub Organizations](#gitHub-organizations)
 - [Local folks with Open Source projects](#local-folks-with-open-source-projects)
 - [Incubators, Schools, and Communities](#incubators-schools-and-communities)
+- [Companies](#companies)
 - [Other lists](#other-lists)
 - [Contribute](#contribute)
 - [Build](#build)
@@ -83,7 +84,6 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Ethereum](https://github.com/ethereum/) - Ethereum blockchain development. [Website](https://www.ethereum.org)
 - [Fluid](https://github.com/fluid-project) - An open, collaborative project to improve the user experience and inclusiveness of open source software. [Website](https://fluidproject.org/)
 - [Inclusive Design Institute](https://github.com/inclusive-design) - R&D for inclusiveness and diversity. [Website](https://inclusivedesign.ca/)
-- [Jam3](https://github.com/Jam3) - Design studio with many OSS contributions. [Website](https://www.jam3.com/)
 - [The Heap](https://github.com/the-heap/) - Cultivated + managed community projects especially welcome to new contributors.
 - [Toronto Mesh](https://github.com/tomeshnet) - Community mesh network in Toronto. [Website](https://tomesh.net)
 
@@ -129,6 +129,10 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [@TorontoJS](https://github.com/torontojs) - Toronto JS ([Website](https://torontojs.com/))
 - [@UofTCoders](https://github.com/UofTCoders) - Peer learning group at the University of Toronto ([Website](https://uoftcoders.github.io/))
 - [Polyhack](https://www.meetup.com/polyhackTO/) - Polyglot technical meetup ([Website](https://zachgoldstein.github.io/polyhack/))
+
+## Companies that are based in Toronto
+
+- [Jam3](https://github.com/Jam3) - Design studio with many OSS contributions. [Website](https://www.jam3.com/)
 
 ## Other lists
 
