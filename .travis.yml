@@ -17,6 +17,7 @@ script:
       --allow-dupe
       --allow-ssl
       --allow 302
+      --allow 301
       --white-list https://github.com/opensourcecities/toronto/issues/new,https://github.com/opensourcecities/toronto.git
   - danger
   - ./hugow --theme=osc-theme
