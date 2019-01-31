@@ -51,6 +51,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Markus](https://github.com/MarkUsProject/Markus) - Online Marking Made Easy.
 - [MithrilJS](https://github.com/MithrilJS/mithril.js) - A Javascript Framework for Building Brilliant Applications. [Website](https://mithril.js.org)
 - [Mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Responses. [Website](http://mockbin.com)
+- [npmcharts](https://github.com/cheapsteak/npmcharts.com) - Compare npm package downloads over time. [Website](https://npmcharts.com)
 - [OMG Counters](https://github.com/adrianmcli/omg-counters) - Increment decrement counters using various frontend frameworks.
 - [phageParser](https://github.com/phageParser/phageParser) - A project to extract CRISPR information from open genetic data.
 - [PIANO.js](https://github.com/ansonkao/PIANO.js) - A browser-based MIDI sequencer. [Website](http://ansonkao.github.io/piano-js/)
@@ -95,6 +96,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 [@amscanne](https://github.com/amscanne), 
 [@ansonkao](https://github.com/ansonkao), 
 [@asalga](https://github.com/asalga), 
+[@cheapsteak](https://github.com/cheapsteak), 
 [@danielsnider](https://github.com/danielsnider),
 [@dxnn](https://github.com/dxnn), 
 [@epitron](https://github.com/epitron), 
