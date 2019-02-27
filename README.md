@@ -87,6 +87,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Inclusive Design Institute](https://github.com/inclusive-design) - R&D for inclusiveness and diversity. [Website](https://inclusivedesign.ca/)
 - [The Heap](https://github.com/the-heap/) - Cultivated + managed community projects especially welcome to new contributors.
 - [Toronto Mesh](https://github.com/tomeshnet) - Community mesh network in Toronto. [Website](https://tomesh.net)
+- [yorkulibraries](https://github.com/yorkulibraries) [Website](www.library.yorku.ca)
 
 ## Local folks with Open Source projects
 
@@ -124,7 +125,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - Dames Making Games ([Website](https://dmg.to/))
 - DevHub ([Website](http://devhub.ca/))
 - Gamma Space ([Website](https://bentomiso.com/))
-- HackerYou ([Website](http://hackeryou.com/))
+- HackerYou ([Website](https://hackeryou.com/))
 - Ladies Learning Code ([Website](https://www.canadalearningcode.ca/))
 - Lighthouse Labs ([Website](https://lighthouselabs.ca/))
 - [@NodeSchool](https://github.com/nodeschool/toronto) Toronto NodeSchool Chapter ([Website](https://nodeschool.io/toronto/))
@@ -135,6 +136,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 ## Companies that are based in Toronto
 
 - [Jam3](https://github.com/Jam3) - Design studio with many OSS contributions. [Website](https://www.jam3.com/)
+- [TunnelBear](https://github.com/tunnelbear) - Really simple VPN to browse the web privately &amp; securely. Unblock websites around the world with applications for Mac, PC, iOS, Android &amp; Chrome. [Website](https://www.tunnelbear.com/)
 
 ## Other lists
 
