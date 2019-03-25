@@ -125,6 +125,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - DevHub ([Website](http://devhub.ca/))
 - Gamma Space ([Website](https://bentomiso.com/))
 - HackerYou ([Website](http://hackeryou.com/))
+- intersectTO - Building a tech community for folks in Toronto who identify as Black, Indigenous, and POC. A space to learn, make, and have critical discussions on technology. ([Website](https://twitter.com/intersect_to))
 - Ladies Learning Code ([Website](https://www.canadalearningcode.ca/))
 - Lighthouse Labs ([Website](https://lighthouselabs.ca/))
 - [@NodeSchool](https://github.com/nodeschool/toronto) Toronto NodeSchool Chapter ([Website](https://nodeschool.io/toronto/))
