@@ -38,9 +38,8 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [Building the Peer-to-Peer Internet](https://github.com/tomeshnet/p2p-internet-workshop/) - Workshop series on community mesh networks and peer-to-peer applications. [Website](https://tomesh.net/peer-to-peer-internet/)
 - [Cryogen](https://github.com/cryogen-project) - Static sites generated with Clojure. [Website](http://cryogenweb.org)
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) -  Graph theory / network library for analysis and visualisation. [Website](http://js.cytoscape.org)
-- [Daimio](https://github.com/dxnn/daimio) - A framework for building programmable applications. [Website](http://daimio.org)
 - [Dagoba](https://github.com/dxnn/dagoba) - A tiny in-memory graph database. [Website](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
-- [Daimio](https://github.com/dxnn/daimio) - A framework for building programmable applications.
+- [Daimio](https://github.com/dxnn/daimio) - A framework for building programmable applications. [Website](http://daimio.org)
 - [Elm GraphQL](https://github.com/jamesmacaulay/elm-graphql) - A GraphQL library for Elm. [Website](http://package.elm-lang.org/packages/jamesmacaulay/elm-graphql/latest)
 - [HAR Validator](https://github.com/ahmadnassri/har-validator) - Extremely fast HTTP Archive (HAR) validator using JSON Schema. [Website](https://www.npmjs.com/package/har-validator)
 - [HRM Solutions](https://github.com/atesgoral/hrm-solutions) - Human Resource Machine solutions and size/speed hacks. [Website](http://atesgoral.github.io/hrm-solutions/)
