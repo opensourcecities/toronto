@@ -133,6 +133,7 @@ These projects have been developed mainly in Toronto, or by Torontoians
 - [@UofTCoders](https://github.com/UofTCoders) - Peer learning group at the University of Toronto ([Website](https://uoftcoders.github.io/))
 - [Polyhack](https://www.meetup.com/polyhackTO/) - Polyglot technical meetup ([Website](https://zachgoldstein.github.io/polyhack/))
 - [HackLab.TO](https://hacklab.to/) - Makerspace
+- [Safari Publications](https://tiny.cc/tplsafari) - Safari Publications sponsored by Toronto Public Library
 
 ## Companies that are based in Toronto
 
